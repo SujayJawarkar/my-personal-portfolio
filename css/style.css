@@ -347,10 +347,10 @@ body {
   /* margin: 10px, 10px, 10px, 10px;*/
   background-color: var(--bg-light-contact);
   border-radius: 10px;
-  border: 2px solid black;
+  border: none;
   justify-content: space-between;
   justify-items: center;
-  /* padding: 20px, 20px, 20px, 20px; */
+  padding: 20px, 20px, 20px, 20px !important;
 }
 
 .con-fname,
@@ -360,7 +360,7 @@ body {
   width: 100%;
   padding: 10px;
   margin: 10px 0;
-  border-radius: 5px;
+  border-radius: 10px;
   border: none;
   /* padding: 2px;
   justify-content: space-around; */
